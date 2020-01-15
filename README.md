@@ -1,9 +1,7 @@
 # lab02-NoahPangUCSB
 
-* TODO: Correct the links to the javadoc and repo below, then delete this TODO
-
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-NoahPangUCSB/
-Repo: https://ucsb-cs56-w20/STARTER-lab02
+Repo: https://github.com/ucsb-cs56-w20/lab02-NoahPangUCSB
 
 # About this repo
 
